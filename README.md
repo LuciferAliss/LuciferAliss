@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Vladislav Koltovich (LuciferAliss)
 
-<!--
-**LuciferAliss/LuciferAliss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 C#/.NET Developer | Student at MCB College**  
+🎓 Studying at [Minsk College of Business](https://www.mcb.by/) (graduating 2026)  
+📍 Minsk, Belarus  
+📫 **Contact**: [Telegram](https://t.me/LuciferAliss) | [Email](mailto:vladislav.a.koltovich@gmail.com)  
 
-Here are some ideas to get you started:
+### 🚀 My Programming Journey
+- Started with **C++** in 2023 (my first programming language)  
+- Began learning **C#** in July 2024 and fell in love with .NET ecosystem  
+- Currently building my first serious projects with proper version control  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+#### **Core Expertise**
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=.net&logoColor=white)
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+
+#### **Game Dev Background**
+![Godot Engine](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white)
+
+### 🎮 Game Development Projects
+
+#### **The Flames of Pompeii** _(Roguelike Prototype_  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/LuciferAliss/The-Flames-of-Pompeii)  
+*My first Godot project
+✔ Core gameplay implemented  
+✔ Learned Godot with C#   
+❌ Rough around the edges  
+
+#### **Ranch Davidson** _(Stardew Valley-Inspired Clone)_
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/LuciferAliss/Ranch-Davidson)  
+_A Godot learning project for mastering game mechanics_
+✔ Crop growth system  
+✔ Day/night cycle  
+❌ Unfinished prototype  
+
+#### **Forms-Forever** _(Papers Please Clone with Twist)_  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/LuciferAliss/Forms-Forever)  
+*Document verification game with custom interactions*  
+✔ Item handling system  
+✔ Basic decision mechanics  
+❌ Lacks narrative
+### 🌟**Current Project**
+**Anime Client Application**  
+- REST API integration  
+- PostgreSQL + Entity Framework Core  
+- Desktop/WPF implementation
+
+### 🎯 Goals for 2025
+- Master **ASP.NET Core** framework  
+- Complete and deploy Anime Client  
+- Land an **internship** in .NET development  
+- Deepen **C#** expertise (patterns, optimization) 
+- Learn **Docker** and containerize apps
+
+### 📊 GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuciferAliss&show_icons=true&theme=dark&hide_title=true)](https://github.com/LuciferAliss)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferAliss&layout=compact&theme=dark&hide=html,css)](https://github.com/LuciferAliss)  
