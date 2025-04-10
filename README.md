@@ -7,7 +7,7 @@
 
 ## 🚀 My Programming Journey
 - Started with **C++** in 2023 (my first programming language)  
-- Began learning **C#** in July 2024 and fell in love with .NET ecosystem  
+- Began learning **C#** in July 2024
 - Currently building my first serious projects with proper version control  
 
 ## 🛠️ Tech Stack
