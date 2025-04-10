@@ -28,7 +28,7 @@
 
 #### **The Flames of Pompeii** _(Roguelike Prototype_  
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/LuciferAliss/The-Flames-of-Pompeii)  
-*My first Godot project
+_My first Godot project_
 ✔ Core gameplay implemented  
 ✔ Learned Godot with C#   
 ❌ Rough around the edges  
@@ -42,7 +42,7 @@ _A Godot learning project for mastering game mechanics_
 
 #### **Forms-Forever** _(Papers Please Clone with Twist)_  
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/LuciferAliss/Forms-Forever)  
-*Document verification game with custom interactions*  
+_Document verification game with custom interactions_ 
 ✔ Item handling system  
 ✔ Basic decision mechanics  
 ❌ Lacks narrative
