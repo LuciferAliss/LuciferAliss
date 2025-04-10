@@ -42,7 +42,7 @@ _A Godot learning project for mastering game mechanics_
 ✔ Day/night cycle  
 ❌ Unfinished prototype  
 
-#### **Forms-Forever** _(Papers Please Clone with Twist)_  
+#### **Forms Forever** _(Papers Please Clone with Twist)_  
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/LuciferAliss/Forms-Forever)  
 _Document verification game with custom interactions_
 
