@@ -24,37 +24,6 @@
 ### **Game Dev Background**
 ![Godot Engine](https://img.shields.io/badge/-Godot-478CBF?logo=godot-engine&logoColor=white)
 
-### 🎮 Game Development Projects
-
-#### **The Flames of Pompeii** _(Roguelike Prototype_  
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/LuciferAliss/The-Flames-of-Pompeii)  
-_My first Godot project_
-
-✔ Core gameplay implemented  
-✔ Learned Godot with C#   
-❌ Rough around the edges  
-
-#### **Ranch Davidson** _(Stardew Valley-Inspired Clone)_
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/LuciferAliss/Ranch-Davidson)  
-_A Godot learning project for mastering game mechanics_
-
-✔ Crop growth system  
-✔ Day/night cycle  
-❌ Unfinished prototype  
-
-#### **Forms Forever** _(Papers Please Clone with Twist)_  
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/LuciferAliss/Forms-Forever)  
-_Document verification game with custom interactions_
-
-✔ Item handling system  
-✔ Basic decision mechanics  
-❌ Lacks narrative
-### 🌟**Current Project**
-**Anime Client Application**  
-- REST API integration  
-- PostgreSQL + Entity Framework Core  
-- Desktop/WPF implementation
-
 ### 🎯 Goals for 2025
 - Master **ASP.NET Core** framework  
 - Complete and deploy Anime Client  
